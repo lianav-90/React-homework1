@@ -20,3 +20,34 @@
 .App-link {
   color: #09d3ac;
 }
+.card {
+  border: none;
+}
+.btn {
+  border-radius: 0;
+  background-color: #16A085;
+  color: white;
+  padding: 12px 33px 15px;
+  border: none;
+  margin: 30px 0px;
+}
+.btn:hover {
+  background-color: #16A085;
+}
+.btn:link {
+  background-color: #16A085;
+}
+h4 {
+  color: #40404C;
+  padding: 70px 0 30px;
+}
+p {
+  color: #66667A;
+}
+h6 {
+  color: #666666;
+}
+.imgcard {
+  width: 19%;
+  margin: 12px;
+}
